@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Tenant POS & Analytics Blueprint",
+  "description": "Interactive architectural blueprint and playground for an Enterprise multi-tenant POS & transaction analytics system with Prisma schema, Edge routing, and secure server-safe querying.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
